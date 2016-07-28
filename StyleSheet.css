@@ -1,0 +1,13 @@
+﻿body{
+  background-color:purple;
+}
+h1{ 
+color: green;
+}
+p, input, button { 
+  font-family: sans-serif;
+  font-size: 15px;
+} 
+input { 
+  width: 200px;
+}
